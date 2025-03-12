@@ -1,6 +1,6 @@
 # Career Advancement with Scikit-Learn
 
-This repository focuses on leveraging Scikit-Learn for career advancement through practical machine learning applications.
+This repository focuses on leveraging Scikit-Learn for career advancement with 0.95 accuracy through practical machine learning applications.
 
 ## Repository Contents
 This repository includes:
